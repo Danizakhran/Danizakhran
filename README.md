@@ -40,24 +40,20 @@ I bridge the gap between complex logic and intuitive design. As a web programmer
 
 ## 📊 Performance & Activity
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Danizakhran&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danizakhran&layout=compact&theme=radical&hide_progress=false" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danizakhran&theme=radical" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-profile-trophy.vercel.app/?username=Danizakhran&theme=radical&column=3&margin-w=15&no-bg=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danizakhran&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danizakhran&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danizakhran&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danizakhran&theme=radical" width="48%" />
+</p>
+
+### 📈 Contribution History
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danizakhran&theme=radical)
+
+---
 
 ### 📈 Weekly Coding Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danizakhran&theme=radical)
