@@ -37,9 +37,10 @@ I bridge the gap between complex logic and intuitive design. As a web programmer
 
 ---
 
-## 📊 GitHub Stats
-![Danizakhran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danizakhran&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danizakhran&layout=compact&theme=radical)
+## 📊 Activity Overview
+![Commits](https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge&logo=github)
+![Repo](https://img.shields.io/badge/Repositories-Check%20Below-blue?style=for-the-badge&logo=git)
+![Code](https://img.shields.io/badge/Skill-Web%20Programming-orange?style=for-the-badge&logo=javascript)
 
 ---
 
