@@ -38,7 +38,7 @@ I bridge the gap between complex logic and intuitive design. As a web programmer
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danizakhran&show_icons=true&theme=radical)
+![Danizakhran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danizakhran&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danizakhran&layout=compact&theme=radical)
 
 ---
